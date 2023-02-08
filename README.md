@@ -2,7 +2,7 @@
 
 ![views counter](https://komarev.com/ghpvc/?username=aracyla)
 
-- [Personal blog](https://aracyla.github.io)
+- [Personal blog](https://aracyla.xyz)
 - [Linkedin](https://www.linkedin.com/in/leonardo-almeida-4ba07911b/)
 - Current interests
 
